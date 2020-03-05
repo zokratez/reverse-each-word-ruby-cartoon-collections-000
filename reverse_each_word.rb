@@ -1,7 +1,4 @@
-def reverse_each_word(sentence)
-  sentence.each
-  
-end
+
 
 def reverse_each_word(sentence)
 ##returns same sentence with each word reverse
